@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-16"?>
+<categories xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <category name="For Children">
+    <products-count>24</products-count>
+    <average-price>770.042916</average-price>
+    <total-revenue>14214.54</total-revenue>
+  </category>
+  <category name="Adult">
+    <products-count>23</products-count>
+    <average-price>610.383043</average-price>
+    <total-revenue>11804.04</total-revenue>
+  </category>
+  <category name="Other">
+    <products-count>23</products-count>
+    <average-price>738.093043</average-price>
+    <total-revenue>12279.90</total-revenue>
+  </category>
+  <category name="Fashion">
+    <products-count>20</products-count>
+    <average-price>694.600500</average-price>
+    <total-revenue>7977.54</total-revenue>
+  </category>
+  <category name="Garden">
+    <products-count>18</products-count>
+    <average-price>815.148888</average-price>
+    <total-revenue>12113.20</total-revenue>
+  </category>
+  <category name="Sports">
+    <products-count>16</products-count>
+    <average-price>893.645000</average-price>
+    <total-revenue>10417.11</total-revenue>
+  </category>
+  <category name="Business">
+    <products-count>16</products-count>
+    <average-price>942.444375</average-price>
+    <total-revenue>11034.20</total-revenue>
+  </category>
+  <category name="Weapons">
+    <products-count>15</products-count>
+    <average-price>860.044666</average-price>
+    <total-revenue>10867.15</total-revenue>
+  </category>
+  <category name="Electronics">
+    <products-count>15</products-count>
+    <average-price>645.975333</average-price>
+    <total-revenue>6706.93</total-revenue>
+  </category>
+  <category name="Autoparts">
+    <products-count>14</products-count>
+    <average-price>928.560714</average-price>
+    <total-revenue>9738.11</total-revenue>
+  </category>
+  <category name="Drugs">
+    <products-count>14</products-count>
+    <average-price>699.016428</average-price>
+    <total-revenue>7267.71</total-revenue>
+  </category>
+</categories>
